@@ -13,3 +13,10 @@ const namaModern = "Budi";
 const sapaES6 = (user) => `Halo ${user}, selamat datang di era modern!`;
 
 console.log(sapaES6(namaModern));
+
+
+// --- CARA MODERN (ES6) ---
+// 1. Gunakan const
+const perkalianModern = (a, b) => a * b;
+
+console.log(perkalianModern(5, 4));
